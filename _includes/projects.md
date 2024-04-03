@@ -1,6 +1,6 @@
 <h1 id="projects"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Projects<temp style="font-size:15px;"></temp></h2>
+<h2 style="margin: 30px 0px -15px;">Talks<temp style="font-size:15px;"></temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -33,7 +33,7 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.web %} 
-      <a href="{{ link.web }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="{{ link.web }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       {% endif %}
       {% if link.notes %}
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>

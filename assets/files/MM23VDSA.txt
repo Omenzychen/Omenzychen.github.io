@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3581783.3611828,
+author = {Jiang, Kaixun and Chen, Zhaoyu and Zhou, Xinyu and Zhang, Jingyu and Hong, Lingyi and Wang, JiaFeng and Li, Bo and Wang, Yan and Zhang, Wenqiang},
+title = {Towards Decision-based Sparse Attacks on Video Recognition},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3611828},
+doi = {10.1145/3581783.3611828},
+abstract = {Recent studies indicate that sparse attacks threaten the security of deep learning models, which modify only a small set of pixels in the input based on the l0 norm constraint. While existing research has primarily focused on sparse attacks against image models, there is a notable gap in evaluating the robustness of video recognition models. To bridge this gap, we are the first to study sparse video attacks and propose an attack framework named V-DSA in the most challenging decision-based setting, in which threat models only return the predicted hard label. Specifically, V-DSA comprises two modules: a Cross-Modal Generator (CMG) for query-free transfer attacks on each frame and an Optical flow Grouping Evolution algorithm (OGE) for query-efficient spatial-temporal attacks. CMG passes each frame to generate the transfer video as the starting point of the attack based on the feature similarity between image classification and video recognition models. OGE first initializes populations based on transfer video and then leverages optical flow to establish the temporal connection of the perturbed pixels in each frame, which can reduce the parameter space and break the temporal relationship between frames specifically. Finally, OGE complements the above optical flow modeling by grouping evolution which can realize the coarse-to-fine attack to avoid falling into the local optimum. In addition, OGE makes the perturbation with temporal coherence while balancing the number of perturbed pixels per frame, further increasing the imperceptibility of the attack. Extensive experiments demonstrate that V-DSA achieves state-of-the-art performance in terms of both threat effectiveness and imperceptibility. We hope V-DSA can provide valuable insights into the security of video recognition systems.},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {1443–1454},
+numpages = {12},
+keywords = {adversarial examples, sparse attacks., video action recognition},
+location = {<conf-loc>, <city>Ottawa ON</city>, <country>Canada</country>, </conf-loc>},
+series = {MM '23}
+}

@@ -1,33 +1,83 @@
 main:
 
-  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
-    authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/multi.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/multi.txt
-    image: ./assets/files/multi.jpg
-    notes: Published
+  - title: Out of Thin Air - Exploring Data-Free Adversarial Robustness Distillation
+    authors: Yuzheng Wang*, <strong>Zhaoyu Chen*</strong>, Dingkang Yang, Pinxue Guo, Kaixun Jiang, Wenqiang Zhang, Lizhe Qi<sup>#</sup>
+    conference_short: AAAI 2024
+    conference:  AAAI 2024
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/download/28390/28762
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iwCU_95C7WgJ:scholar.google.com/&output=citation&scisdr=ClHXwLq9EKTlj5g9ifY:AFWwaeYAAAAAZg07kfZ9_boQmSdF7EZscxqwb2Y&scisig=AFWwaeYAAAAAZg07kYfDA8eGTOSbtpVdIdAJy0k&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/files/AAAI24dfard.png
+    notes: 
 
-  - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
-    authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
-    conference_short: Adv. Mater. Interfaces
-    conference: Advanced Materials Interfaces
-    pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/magnetoionic.txt
-    image: ./assets/files/admi202270196-gra-0001-m.jpg
-    notes: Published
+  - title: Content-based Unrestricted Adversarial Attack
+    authors: <strong>Zhaoyu Chen</strong>, Bo Li<sup>#</sup>, Shuang Wu, Kaixun Jiang, Shouhong Ding, Wenqiang Zhang<sup>#</sup>
+    conference_short: NeurIPS 2023
+    conference: NeurIPS 2023
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/a24cd16bc361afa78e57d31d34f3d936-Paper-Conference.pdf
+    code: https://github.com/Omenzychen/Adversarial_Content_Attack
+    bibtex: https://proceedings.neurips.cc/paper_files/paper/22523-/bibtex
+    image: ./assets/files/nips23aca.png
+    notes: 
 
-  - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
-    authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/SSRN-id4328224.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
-    bibtex: ./assets/files/flexible.txt
-    image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
-    notes: Published
+  - title: Efficient Decision-based Black-box Patch Attacks on Video Recognition
+    authors: Kaixun Jiang*, <strong>Zhaoyu Chen*</strong>, Hao Huang, Jiafeng Wang, Dingkang Yang, Bo Li, Yan Wang, Wenqiang Zhang<sup>#</sup>
+    conference_short: ICCV 2023
+    conference: ICCV 2023
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Efficient_Decision-based_Black-box_Patch_Attacks_on_Video_Recognition_ICCV_2023_paper.pdf
+    code: https://github.com/deep-kaixun/STDE
+    bibtex: ./assets/files/ICCV23STDE.txt
+    image: ./assets/files/ICCV23STDE.png
+    notes: 
+
+  - title: Query-Efficient Decision-based Black-Box Patch Attack
+    authors: <strong>Zhaoyu Chen</strong>, Bo Li<sup>#</sup>, Shuang Wu, Shouhong Ding, Wenqiang Zhang<sup>#</sup>
+    conference_short: TIFS 2023
+    conference: IEEE Transactions on Information Forensics and Security
+    pdf: ./assets/files/TIFS23DevoPatch.pdf
+    code: 
+    bibtex: ./assets/files/TIFS23DevoPatch.txt
+    image: ./assets/files/TIFS23DevoPatch.png
+    notes: 
+
+  - title: Towards Decision-based Sparse Attacks on Video Recognition
+    authors: Kaixun Jiang*, <strong>Zhaoyu Chen*</strong>, Xinyu Zhou, Jingyu Zhang, Lingyi Hong, JiaFeng Wang, Bo Li, Yan Wang<sup>#</sup>, Wenqiang Zhang<sup>#</sup>
+    conference_short: ACMMM 2023 Oral
+    conference: ACMMM 2023 Oral
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3611827
+    code: 
+    bibtex: ./assets/files/MM23VDSA.txt
+    image: ./assets/files/MM23VDSA.png
+    notes: 
+
+  - title: Exploring the Adversarial Robustness of Video Object Segmentation via One-shot Adversarial Attacks
+    authors: Kaixun Jiang, Lingyi Hong, <strong>Zhaoyu Chen<sup>#</sup></strong>, Pinxue Guo, Zeng Tao, Yan Wang, Wenqiang Zhang<sup>#</sup>
+    conference_short: ACMMM 2023
+    conference: ACMMM 2023
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3581783.3611827
+    code: 
+    bibtex: ./assets/files/MM23VOSPGD.txt
+    image: ./assets/files/MM23VOSPGD.png
+    notes: 
+
+  - title: Shape Matters - Deformable Patch Attack
+    authors: <strong>Zhaoyu Chen</strong>, Bo Li<sup>#</sup>, Shuang Wu, Jianghe Xu, Shouhong Ding, Wenqiang Zhang
+    conference_short: ECCV 2022
+    conference: ECCV 2022
+    pdf: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640522.pdf
+    code: https://github.com/Omenzychen/Deformable_Patch_Representation
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PZkNiWAkgbcJ:scholar.google.com/&output=citation&scisdr=ClEjJ1elEKTlj5hB6WM:AFWwaeYAAAAAZg1H8WNEAFGuW8yvsDVT4r0_yp4&scisig=AFWwaeYAAAAAZg1H8cDmK0xsXceNAwhcCVC5Ru8&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/files/ECCV22DAPatch.png
+    notes: 
+
+  - title: Towards Practical Certifiable Patch Defense with Vision Transformer
+    authors: <strong>Zhaoyu Chen</strong>, Bo Li<sup>#</sup>, Jianghe Xu, Shuang Wu, Shouhong Ding, Wenqiang Zhang<sup>#</sup>
+    conference_short: CVPR 2022
+    conference: CVPR 2022
+    pdf: http://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Towards_Practical_Certifiable_Patch_Defense_With_Vision_Transformer_CVPR_2022_paper.pdf
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aIPbxwPKWvgJ:scholar.google.com/&output=citation&scisdr=ClEjJ1elEKTlj5hAVc0:AFWwaeYAAAAAZg1GTc0nphu7vljjIkSA7OWcGSQ&scisig=AFWwaeYAAAAAZg1GTfRkRofY6eBmq_vtPUsogyY&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/files/CVPR22.png
+    notes: 
 
   

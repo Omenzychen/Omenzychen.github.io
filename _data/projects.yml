@@ -1,30 +1,22 @@
 main:
 
-  - title: I-V Measurement System
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to aplly the bias voltage and measure the current. Futher features such as I-V, V-I switching toggle, and Cyclic Voltammetry (CV) will be also included. 
-    pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
-    web: https://goindex.chen-song90.workers.dev/0:/I-V/
-    image: https://blog.songchen.science/images/I-V/GUI.png
+  - title: NeurIPS 2023 - Content-based Unrestricted Adversarial Attack
+    authors: Zhaoyu Chen
+    project_short: Poster
+    project: The main content is how to obtain natural and real unrestricted adversarial examples with strong black-box attack performance.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/a24cd16bc361afa78e57d31d34f3d936-Paper-Conference.pdf
+    code: https://github.com/Omenzychen/Adversarial_Content_Attack
+    web: https://www.bilibili.com/video/BV1fx421y7VG/?spm_id_from=333.337.search-card.all.click&vd_source=da52e1cd215f957210fe19f77356c028
+    image: assets/files/NIPS23talk.png
     notes:
 
-  - title: Anomalous Hall Effect Measurement System (AHEMS)
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to obatin the AHE hysteresis loops which is based on he relationship between the anomalous Hall conductivity and an external magnetic field applied to a material.
-    pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
-    web: https://goindex.chen-song90.workers.dev/0:/AHEMS/
-    image: https://blog.songchen.science/images/AHE/GUI.png
+  - title: Adversarial patch attacks and defenses on image classification
+    authors: Zhaoyu Chen
+    project_short: Lecture
+    project: Share the current status of attack and defense and technical research on adversarial patches.
+    pdf: 
+    web: https://apposcmf8kb5033.pc.xiaoe-tech.com/detail/l_62cd3ecbe4b0a51feefe5ce9/4
+    image: assets/files/youtu22tlak.png
     notes:
-
-  - title: AutoVA - Automated VCMA & AHE Measurement System
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to 1. control the E-field applied for the VCMA/Magnetoelectric coupling; 2. to control the elctromagnetic field; 3. to control the SMU to apply one bias current ,and meanwhile measuring the Hall voltage. All the parameters can be set correspondingly and sequencer can be made to realize the automation.
-    pdf: https://goindex.chen-song90.workers.dev/0:/AutoVA/
-    web: https://goindex.chen-song90.workers.dev/0:/AutoVA/
-    image: ./assets/img/autova.png
-    notes: Non-Open Source
 
 

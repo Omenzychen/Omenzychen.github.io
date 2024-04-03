@@ -1,0 +1,10 @@
+@ARTICLE{TIFS23DevoPatch,
+  author={Chen, Zhaoyu and Li, Bo and Wu, Shuang and Ding, Shouhong and Zhang, Wenqiang},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Query-Efficient Decision-Based Black-Box Patch Attack}, 
+  year={2023},
+  volume={18},
+  number={},
+  pages={5522-5536},
+  keywords={Closed box;Perturbation methods;Glass box;Evolutionary computation;Robustness;Image classification;Optimization;Adversarial example;patch attack;black-box attack;differential evolutionary algorithm},
+  doi={10.1109/TIFS.2023.3307908}}

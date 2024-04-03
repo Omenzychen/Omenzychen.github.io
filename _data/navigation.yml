@@ -4,20 +4,20 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Conferences & Events"
-    url: ./#conferences
+  # - title: "Conferences & Events"
+  #   url: ./#conferences
 
   - title: "Publications"
     url: ./#publications
 
-  - title: "Projects"
+  - title: "Talks"
     url: ./#projects
 
   - title: "News"
     url: ./#news
 
-  - title: "Blogs"
-    url: ./blog/
+  # - title: "Blogs"
+  #   url: ./blog/
 
-  - title: "Bio"
+  - title: "About Me"
     url: ./#about-me

@@ -1,0 +1,8 @@
+@InProceedings{Jiang_2023_ICCV,
+    author    = {Jiang, Kaixun and Chen, Zhaoyu and Huang, Hao and Wang, Jiafeng and Yang, Dingkang and Li, Bo and Wang, Yan and Zhang, Wenqiang},
+    title     = {Efficient Decision-based Black-box Patch Attacks on Video Recognition},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {4379-4389}
+}

@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3581783.3611827,
+author = {Jiang, Kaixun and Hong, Lingyi and Chen, Zhaoyu and Guo, Pinxue and Tao, Zeng and Wang, Yan and Zhang, Wenqiang},
+title = {Exploring the Adversarial Robustness of Video Object Segmentation via One-shot Adversarial Attacks},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3611827},
+doi = {10.1145/3581783.3611827},
+abstract = {Video object segmentation (VOS) is a fundamental task for computer vision and multimedia. Despite significant progress of VOS models in recent works, there has been little research on the VOS models' adversarial robustness, posing serious security risks in the VOS models' practical applications (e.g., autonomous driving and video surveillance). Adversarial robustness refers to the ability of the model to resist malicious attacks on adversarial examples. To address this gap, we propose a one-shot adversarial robustness evaluation framework (i.e., the adversary only perturbs the first frame) for VOS models, including white-box and black-box attacks. For white-box attacks, we introduce Objective Attention (OA) and Boundary Attention (BA) mechanisms to enhance the attention of attack on objects from both pixel and object levels while mitigating issues such as multi-objects attack imbalance, attack bias towards the background, and boundary reservation. For black-box attacks, we propose the Video Diverse Input (VDI) module, which utilizes data augmentation to simulate historical information, improving our method's black-box transferability. We conduct extensive experiments to evaluate the adversarial robustness of VOS models with different structures. Our experimental results reveal that existing VOS models are more vulnerable to our attacks (both white-box and black-box) compared to other state-of-the-art attacks. We further analyze the influence of different designs (e.g., memory and matching mechanisms) on adversarial robustness. Finally, we provide insights for designing more secure VOS models in the future.},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {8598–8607},
+numpages = {10},
+keywords = {video object segmentation, one-shot attack., adversarial robustness},
+location = {<conf-loc>, <city>Ottawa ON</city>, <country>Canada</country>, </conf-loc>},
+series = {MM '23}
+}
