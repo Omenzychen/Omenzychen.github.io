@@ -21,7 +21,7 @@ I am a fourth-year bachelor-straight-to-doctorate student at Academy for Enginee
   - IEEE: TPAMI, TNNLS, TCSVT
   - Elsevier: Neural Networks, Knowledge-based System, Machine Learning
 - **Conference Reviewer:** 
-  - Computer Vision: CVPR, ICCV, ECCV
+  - Computer Vision: CVPR, ICCV, ECCV, ACCV
   - Machine Learning and Deep Learning: NeurIPS, ICLR, ICML
   - Artificial Intelligence and Multimodal: AAAI, IJCAI, ACMMM, ICASSP
 
