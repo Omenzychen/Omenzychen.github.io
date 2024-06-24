@@ -8,8 +8,12 @@ layout: homepage
 
 I am a fourth-year bachelor-straight-to-doctorate student at Academy for Engineering and Technology of Fudan University. As a part of Lab of Robotics Oriented Intelligence, I am advised by [Wenqiang Zhang](https://scholar.google.com/citations?user=vL-VEJYAAAAJ&hl=en). Prior to this, I received the B.E. degree in Shandong University in 2020. In addition, from 2021.04 to 2024.04, I served as a research intern and was advised by [Bo Li](https://scholar.google.com/citations?user=NVzQ87sAAAAJ&hl=en) in Youtu Lab, Tencent.
 
+In the fall of 2024, I will be entering the job market, seeking positions in the industry that align with my expertise and passion. My academic and research experiences have provided me with a solid foundation in AI security, AI-generated content (AIGC), and multimodal large models. I am particularly interested in industrial roles that allow me to contribute to developing and implementing AI technologies, ensuring their safety and efficacy. My resume is [here](assets/files/CV-ZhaoyuChen-v2.pdf)!
+
+I am eager to leverage my knowledge and skills in a dynamic and innovative industrial environment, where I can continue to grow and make meaningful contributions to the field of artificial intelligence.
+
 ### Research Interest:
-- **Adversarial Example:** Adversarial Patch, Video Adversarial Example, and Black-box Attack
+- **AI Security:** Adversarial Patch, Video Adversarial Example, and Black-box Attack
 - **Robustness and Generalization:** Adversarial Distillation, Pre-Training Model
 - **Artificial Intelligence Generated Content:** Image Editing, Adversarial Content Generation, Multimodal Model
 
