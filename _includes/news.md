@@ -3,6 +3,8 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[July 2024]</strong> One paper (co-first author) is accepeted by  <span style="color:#e74d3c">Expert Systems With Applications</span>!</li>
+<li><strong>[July 2024]</strong> Two paper are accepeted by  <span style="color:#e74d3c">ECCV 2024</span>!</li>
 <li><strong>[June 2024]</strong> We won <span style="color:#e74d3c">the first place</span> in <span style="color:#e74d3c">CVPR 2024 Workshop Challenge: Black-box Adversarial Attacks on Vision Foundation Models</span>!</li>
 <li><strong>[Mar. 2024]</strong> One paper is accepeted by  <span style="color:#e74d3c">CVPR 2024</span>!</li>
 <li><strong>[Dec. 2023]</strong> One paper (co-first author) is accepeted by  <span style="color:#e74d3c">AAAI 2024</span>!</li>
