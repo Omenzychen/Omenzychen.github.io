@@ -1,4 +1,13 @@
 main:
+  - title: Boosting the Transferability of Adversarial Attacks with Global Momentum Initialization
+    authors: Jiafeng Wang*, <strong>Zhaoyu Chen*</strong>, Kaixun Jiang, Dingkang Yang, Lingyi Hong, Pinxue Guo, Haijing Guo, Wenqiang Zhang<sup>#</sup>
+    conference_short: ESWA 2024
+    conference:  Expert Systems with Applications
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0957417424016245
+    code: https://github.com/Omenzychen/Global-Momentum-Initialization
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:nRqc3A-j6t8J:scholar.google.com/&output=citation&scisdr=ClExirNJENq53C51iEM:AFWwaeYAAAAAZp5zkEPd5R61bUNZDH9iEtSpKnQ&scisig=AFWwaeYAAAAAZp5zkPzwf29jjopN03nAqXKXXWM&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/files/ESWA24GI.png
+    notes: 
 
   - title: Out of Thin Air - Exploring Data-Free Adversarial Robustness Distillation
     authors: Yuzheng Wang*, <strong>Zhaoyu Chen*</strong>, Dingkang Yang, Pinxue Guo, Kaixun Jiang, Wenqiang Zhang, Lizhe Qi<sup>#</sup>
