@@ -3,6 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Dec. 2024]</strong> Two papers are accepeted by  <span style="color:#e74d3c">AAAI 2025</span>!</li>
 <li><strong>[July 2024]</strong> Three paper are accepeted by  <span style="color:#e74d3c">ACMMM 2024</span>!</li>
 <li><strong>[July 2024]</strong> One paper (co-first author) is accepeted by  <span style="color:#e74d3c">Expert Systems With Applications</span>!</li>
 <li><strong>[July 2024]</strong> Two paper are accepeted by  <span style="color:#e74d3c">ECCV 2024</span>!</li>
