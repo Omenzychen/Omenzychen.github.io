@@ -4,8 +4,8 @@
 
 <ul>
 <li><strong>[June 2025]</strong> One paper (co-corresponding author) is accepeted by  <span style="color:#e74d3c">IEEE Transactions on Circuits and Systems for Video Technology</span>!</li>
-<li><strong>[June 2024]</strong> I received <span style="color:#e74d3c">the Outstanding Graduate for Shanghai</span>!</li>
-<li><strong>[Mar. 2025]</strong> Two papers are accepeted by  <span style="color:#e74d3c">ICCV 2025</span>!</li>
+<li><strong>[June 2025]</strong> I received <span style="color:#e74d3c">the Outstanding Graduate for Shanghai</span>!</li>
+<li><strong>[June 2025]</strong> Two papers are accepeted by  <span style="color:#e74d3c">ICCV 2025</span>!</li>
 <li><strong>[Dec. 2024]</strong> Two papers are accepeted by  <span style="color:#e74d3c">AAAI 2025</span>!</li>
 <li><strong>[Dec. 2024]</strong> I received <span style="color:#e74d3c">the National Scholarship for Graduate Students</span>!</li>
 <li><strong>[July 2024]</strong> Three paper are accepeted by  <span style="color:#e74d3c">ACMMM 2024</span>!</li>
