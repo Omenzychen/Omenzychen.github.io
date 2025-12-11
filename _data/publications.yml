@@ -1,4 +1,40 @@
 main:
+  - title: Boosting Adversarial Transferability with Spatial Adversarial Alignment
+    authors: <strong>Zhaoyu Chen*</strong>, Haijing Guo*, Kaixun Jiang, Jiyuan Fu, Xinyu Zhou, Dingkang Yang, Hao Tang, Bo Li, Wenqiang Zhang<sup>#</sup>
+    conference_short: NeurIPS 2025
+    conference:  NeurIPS 2025
+    pdf: https://openreview.net/pdf?id=seCBUZYs5c
+    code: 
+    bibtex: https://openreview.net/forum?id=seCBUZYs5c
+    image: ./assets/files/NeurIPS2025SAA.png
+    notes: 
+  - title: Enhancing Diffusion-based Unrestricted Adversarial Attacks via Adversary Preferences Alignment
+    authors: Kaixun Jiang, <strong>Zhaoyu Chen<sup>#</sup></strong>, Haijing Guo, Jinglun Li, Jiyuan Fu, Pinxue Guo, Hao Tang, Bo Li, Wenqiang Zhang<sup>#</sup>
+    conference_short: NeurIPS 2025
+    conference:  NeurIPS 2025
+    pdf: https://openreview.net/pdf/3d2dc3627bd25e3cef5ba061fa69cab5ef2983bd.pdf
+    code: 
+    bibtex: https://openreview.net/forum?id=OKf5SSUhJF
+    image: ./assets/files/NeurIPS2025APA.png
+    notes: 
+  - title: Exploring the Adversarial Robustness of Face Forgery Detection with Decision-based Black-box Attacks
+    authors: <strong>Zhaoyu Chen</strong>, Bo Li, Kaixun Jiang, Shuang Wu, Shouhong Ding, Wenqiang Zhang<sup>#</sup>
+    conference_short: KBS 2025
+    conference:  Knowledge-Based Systems
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0950705125017216
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gEe7WA7CC4EJ:scholar.google.com/&output=citation&scisdr=CrxJUbTKEOnegPNzAtE:ALhkC2QAAAAAaTp1GtHnljhYkZs6LUPqUPkczeU&scisig=ALhkC2QAAAAAaTp1Go7wN8kP2T2IfZ3lk_3WTsI&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/files/KBS2025FDA.png
+    notes: 
+  - title: Improving Adversarial Transferability with Neighbourhood Gradient Information
+    authors: Haijing Guo*, Jiafeng Wang*, <strong>Zhaoyu Chen<sup>#</sup></strong>, Kaixun Jiang, Lingyi Hong, Pinxue Guo, Jinglun Li, Wenqiang Zhang<sup>#</sup>
+    conference_short: ASOC 2025
+    conference:  Applied Soft Computing
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1568494625010993
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:F93dcqvCIUcJ:scholar.google.com/&output=citation&scisdr=CrxJUbS6EOnegPN1hOY:ALhkC2QAAAAAaTpznObe_Hv6UssMdZ-byB5dsAM&scisig=ALhkC2QAAAAAaTpznCOZ8v1gqGoSdVcfIRp0tuQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/files/ASOC2025NGI.png
+    notes: 
   - title: Boosting the Transferability of Adversarial Attacks with Global Momentum Initialization
     authors: Jiafeng Wang*, <strong>Zhaoyu Chen*</strong>, Kaixun Jiang, Dingkang Yang, Lingyi Hong, Pinxue Guo, Haijing Guo, Wenqiang Zhang<sup>#</sup>
     conference_short: ESWA 2024
